@@ -10,7 +10,7 @@ Homework #5 - Work Day Scheduler
 * display saved memos immediately
 ### Compare time id of timeblock to current time for color coding
 * for loop to go through each timeblock individually
-* put both (timblock id and current) times into arrays using .split 
+* put both (timeblock id and current) times into arrays using .split 
 * used if statements to compare times and set color conditions
 * change textarea color as needed using .css
 ** Green = Future hour | Red = Current hour | Grey = Passed hour
