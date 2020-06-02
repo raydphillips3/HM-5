@@ -2,8 +2,8 @@
 Homework #5 - Work Day Scheduler
 
 ## Build Timeblocks
-# Each timeblock needs the hour, an input for memos, and a save button
-# Memos need to save and be retrieved upon opening the scheduler
+### Each timeblock needs the hour, an input for memos, and a save button
+### Memos need to save and be retrieved upon opening the scheduler
 * data stored to and pulled from local storage
 
 
