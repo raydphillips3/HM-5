@@ -1,0 +1,33 @@
+#timeBlock {
+    border: 2px solid black;
+    border-bottom: 1px;
+    padding: 0px;
+    margin: 0px;
+    width: 84.9vw;
+    height: 88px;
+} 
+
+.btn {
+    padding: 30px;
+    margin: 0cm;
+}
+
+.form-control {
+    margin: 0px;
+    border: 0px;
+    width: 11em; 
+    border: 1px solid #000000;
+    background-color: rgb(105, 238, 105);
+    font-size: 20px;
+    word-wrap: break-word;
+}
+
+.form {
+    width: 73vw;
+ }
+
+ 
+ #time {
+     width: 90px;
+     font-weight: bolder;
+ }
