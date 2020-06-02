@@ -8,7 +8,7 @@ Homework #5 - Work Day Scheduler
 ### Memos need to save and be retrieved upon opening the scheduler
 * memo data stored to and pulled from local storage
 * display saved memos immediately
-### compare time id of timeblock to current time 
+### Compare time id of timeblock to current time for color coding
 * for loop to go through each timeblock individually
 * put both (timblock id and current) times into arrays using .split 
 * used if statements to compare times and set color conditions
